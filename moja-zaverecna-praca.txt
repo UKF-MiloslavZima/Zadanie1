@@ -1,0 +1,5 @@
+Samohodnotiace aktivity pre predmet počítačové siete
+
+Simulačný nástroj na výučbu počítačových sietí Cisco Packet Tracer umožňuje vytvárať variabilné samohodnotiace aktivity, čím sa vytvoria individuálne zadania pre každého študenta.
+
+Cieľom práce je vytvoriť pokročilé samohodnotiace aktivity v nástroji Cisco Packet Tracer tak, aby každé zadanie bolo dostatočne unikátne. Študent popíše princípy tvorby týchto zadaní ako aj potrebnú teóriu nutnú pre vyriešenie zadania.
